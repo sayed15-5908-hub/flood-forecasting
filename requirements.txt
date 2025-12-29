@@ -1,6 +1,6 @@
 streamlit
 pandas
-numpy
+numpy<2
 scikit-learn
 tensorflow-cpu==2.10.1
 protobuf<4
